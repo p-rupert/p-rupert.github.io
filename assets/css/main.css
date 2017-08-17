@@ -2954,6 +2954,7 @@
 
 		.wrapper.style4 {
 			background-color: transparent;
+			text-align:center;
 		}
 
 		.wrapper.style5 {
@@ -3573,6 +3574,7 @@
 		display: -ms-flex;
 		display: flex;
 		max-width: 45em;
+		text-align:center;
 	}
 
 		#cta .inner header {
